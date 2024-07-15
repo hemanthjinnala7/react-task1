@@ -1,0 +1,62 @@
+.main-bg {
+    background-image: url("https://lof8sc.yourbrand.studio/files/dynamicContent/sites/lof8sc/images/en/webpage_13/lrrv5470/element_252/rwdMode_1/2400x700/main.webp");
+    height: 100vh;
+    block-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+a{
+    font-size:20px;
+    color:black;
+    margin: 20px;
+    font-family: sans-serif;
+}
+.anchors-div{
+    padding:20px;
+    margin-left: 690px;
+   
+    margin-top: 30px;
+}
+
+.anchor-button{
+    font-size:18px;
+    border-radius: 40px;
+    background-color: transparent;
+    width: 260px;
+    height:55px;
+    margin:20px;
+}
+.home{
+    font-weight: bolder;
+}
+.main-head{
+    margin-top: 270px;
+    margin-left: 45px;
+}
+.head-1{
+    font-family: 'Times New Roman';
+    font-style: italic;
+    color:aliceblue;
+    font-size: 40px;
+    font-weight:lighter;
+    margin-left: 760px;
+}
+.head-2{
+    font-weight: bolder;
+    font-size:70px;
+    color:aliceblue;
+    margin-left: 470px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.btn-2{
+        font-size:22px;
+        border-radius: 40px;
+        font-weight: bold;
+        width: 300px;
+        height:70px;
+        margin-left: 750px;
+        border:none;
+    
+}
+
